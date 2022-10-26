@@ -5,16 +5,67 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="99f6aa09-6af1-4a6c-9f28-8580cb69e2da" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/demo/json/JsonTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/demo/kotlin_study/P02_001.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/demo/subclass/BaseClass.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/demo/subclass/ClassA.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/demo/subclass/OperatorModeEnum.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_demo/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_demo/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_demo/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_demo/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_demo/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_demo/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-to-diagrams/src/main/java/io/github/linwancen/diagrams/Conf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-to-diagrams/src/main/java/io/github/linwancen/diagrams/JavaParserMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-to-diagrams/src/main/java/io/github/linwancen/diagrams/java/api/JavaParse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-to-diagrams/src/main/java/io/github/linwancen/diagrams/java/api/bean/JavaInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-to-diagrams/src/main/java/io/github/linwancen/diagrams/java/api/bean/MemberInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-to-diagrams/src/main/java/io/github/linwancen/diagrams/java/api/bean/ModifiersInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-to-diagrams/src/main/java/io/github/linwancen/diagrams/java/api/bean/TypeInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-to-diagrams/src/main/java/io/github/linwancen/diagrams/java/api/dict/AccessEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-to-diagrams/src/main/java/io/github/linwancen/diagrams/java/api/dict/MemberEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-to-diagrams/src/main/java/io/github/linwancen/diagrams/java/api/dict/TypeEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-to-diagrams/src/main/java/io/github/linwancen/diagrams/java/api/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-to-diagrams/src/main/java/io/github/linwancen/diagrams/java/export/excel/ExcelLine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-to-diagrams/src/main/java/io/github/linwancen/diagrams/java/export/excel/ExcelLineRel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-to-diagrams/src/main/java/io/github/linwancen/diagrams/java/export/excel/JavaParseImplExcel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-to-diagrams/src/main/java/io/github/linwancen/diagrams/java/export/graphviz/CallUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-to-diagrams/src/main/java/io/github/linwancen/diagrams/java/export/graphviz/JavaParseImplGraphviz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-to-diagrams/src/main/java/io/github/linwancen/diagrams/java/export/graphviz/JavaParseImplGraphvizClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-to-diagrams/src/main/java/io/github/linwancen/diagrams/java/export/graphviz/NodeUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-to-diagrams/src/main/java/io/github/linwancen/diagrams/java/export/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-to-diagrams/src/main/java/io/github/linwancen/diagrams/java/export/xmind/AbsJavaParseImplXMind.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-to-diagrams/src/main/java/io/github/linwancen/diagrams/java/export/xmind/JavaParseImplXMindCall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-to-diagrams/src/main/java/io/github/linwancen/diagrams/java/export/xmind/JavaParseImplXMindClassCall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-to-diagrams/src/main/java/io/github/linwancen/diagrams/java/export/xmind/JavaParseImplXMindTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-to-diagrams/src/main/java/io/github/linwancen/diagrams/java/parser/AccessEnumUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-to-diagrams/src/main/java/io/github/linwancen/diagrams/java/parser/InfoFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-to-diagrams/src/main/java/io/github/linwancen/diagrams/java/parser/InfoUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-to-diagrams/src/main/java/io/github/linwancen/diagrams/java/parser/JavadocUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-to-diagrams/src/main/java/io/github/linwancen/diagrams/java/parser/SolverUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-to-diagrams/src/main/java/io/github/linwancen/diagrams/java/parser/Step1Dirs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-to-diagrams/src/main/java/io/github/linwancen/diagrams/java/parser/Step2File.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-to-diagrams/src/main/java/io/github/linwancen/diagrams/java/parser/Step3Type.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-to-diagrams/src/main/java/io/github/linwancen/diagrams/java/parser/Step4Members.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-to-diagrams/src/main/java/io/github/linwancen/diagrams/java/parser/Step5MethodCall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-to-diagrams/src/main/java/io/github/linwancen/diagrams/java/parser/Step6Over.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-to-diagrams/src/main/java/io/github/linwancen/diagrams/java/parser/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-to-diagrams/src/main/java/io/github/linwancen/util/excel/FreezeAndFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-to-diagrams/src/main/java/io/github/linwancen/util/graphviz/GraphvizUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-to-diagrams/src/main/java/io/github/linwancen/util/graphviz/Uml.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-to-diagrams/src/main/java/io/github/linwancen/util/graphviz/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-to-diagrams/src/main/java/io/github/linwancen/util/java/CommentUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-to-diagrams/src/main/java/io/github/linwancen/util/java/ConfUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-to-diagrams/src/main/java/io/github/linwancen/util/java/EnvUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-to-diagrams/src/main/java/io/github/linwancen/util/java/FileUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-to-diagrams/src/main/java/io/github/linwancen/util/java/FilterUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-to-diagrams/src/main/java/io/github/linwancen/util/java/JFileUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-to-diagrams/src/main/java/io/github/linwancen/util/java/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-to-diagrams/src/main/java/io/github/linwancen/util/maven/DepHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-to-diagrams/src/main/java/io/github/linwancen/util/maven/MavenUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-to-diagrams/src/main/java/io/github/linwancen/util/xmind/XMindUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kotlin_demo/.gradle/7.1/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Kotlin_demo/.gradle/7.1/dependencies-accessors/dependencies-accessors.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Kotlin_demo/.gradle/7.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Kotlin_demo/.gradle/7.1/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Kotlin_demo/.gradle/7.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Kotlin_demo/.gradle/7.1/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Kotlin_demo/.gradle/7.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Kotlin_demo/.gradle/7.1/fileHashes/fileHashes.bin" afterDir="false" />
@@ -24,7 +75,388 @@
       <change beforePath="$PROJECT_DIR$/Kotlin_demo/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Kotlin_demo/.gradle/checksums/checksums.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Kotlin_demo/.gradle/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Kotlin_demo/.gradle/checksums/md5-checksums.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Kotlin_demo/.gradle/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Kotlin_demo/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SomeDemo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SomeDemo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kotlin_demo/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/Kotlin_demo/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kotlin_demo/build/classes/kotlin/main/META-INF/Kotlin_demo.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/Kotlin_demo/build/classes/kotlin/main/META-INF/Kotlin_demo.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kotlin_demo/build/classes/kotlin/main/kotlinprimer/TestKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/Kotlin_demo/build/classes/kotlin/main/kotlinprimer/TestKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kotlin_demo/build/kotlin/compileKotlin/build-history.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Kotlin_demo/build/kotlin/compileKotlin/build-history.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kotlin_demo/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/Kotlin_demo/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kotlin_demo/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/Kotlin_demo/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kotlin_demo/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/Kotlin_demo/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kotlin_demo/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/Kotlin_demo/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kotlin_demo/build/kotlin/compileKotlin/caches-jvm/lookups/counters.tab" beforeDir="false" afterPath="$PROJECT_DIR$/Kotlin_demo/build/kotlin/compileKotlin/caches-jvm/lookups/counters.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kotlin_demo/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/Kotlin_demo/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kotlin_demo/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/Kotlin_demo/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kotlin_demo/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/Kotlin_demo/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kotlin_demo/build/kotlin/compileKotlin/last-build.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Kotlin_demo/build/kotlin/compileKotlin/last-build.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SomeDemo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-to-diagrams.git/.github/workflows/main.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-to-diagrams.git/.github/workflows/release.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-to-diagrams.git/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-to-diagrams.git/.idea/runConfigurations/JavaParseMainTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-to-diagrams.git/.idea/runConfigurations/JavaParserMain.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-to-diagrams.git/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-to-diagrams.git/graphviz-dot-class-demo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-to-diagrams.git/graphviz-dot-demo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-to-diagrams.git/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-to-diagrams.git/src/main/java/io/github/linwancen/diagrams/Conf.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-to-diagrams.git/src/main/java/io/github/linwancen/diagrams/JavaParserMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-to-diagrams.git/src/main/java/io/github/linwancen/diagrams/java/api/JavaParse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-to-diagrams.git/src/main/java/io/github/linwancen/diagrams/java/api/bean/JavaInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-to-diagrams.git/src/main/java/io/github/linwancen/diagrams/java/api/bean/MemberInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-to-diagrams.git/src/main/java/io/github/linwancen/diagrams/java/api/bean/ModifiersInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-to-diagrams.git/src/main/java/io/github/linwancen/diagrams/java/api/bean/TypeInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-to-diagrams.git/src/main/java/io/github/linwancen/diagrams/java/api/dict/AccessEnum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-to-diagrams.git/src/main/java/io/github/linwancen/diagrams/java/api/dict/MemberEnum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-to-diagrams.git/src/main/java/io/github/linwancen/diagrams/java/api/dict/TypeEnum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-to-diagrams.git/src/main/java/io/github/linwancen/diagrams/java/api/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-to-diagrams.git/src/main/java/io/github/linwancen/diagrams/java/export/excel/ExcelLine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-to-diagrams.git/src/main/java/io/github/linwancen/diagrams/java/export/excel/ExcelLineRel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-to-diagrams.git/src/main/java/io/github/linwancen/diagrams/java/export/excel/JavaParseImplExcel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-to-diagrams.git/src/main/java/io/github/linwancen/diagrams/java/export/graphviz/CallUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-to-diagrams.git/src/main/java/io/github/linwancen/diagrams/java/export/graphviz/JavaParseImplGraphviz.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-to-diagrams.git/src/main/java/io/github/linwancen/diagrams/java/export/graphviz/JavaParseImplGraphvizClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-to-diagrams.git/src/main/java/io/github/linwancen/diagrams/java/export/graphviz/NodeUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-to-diagrams.git/src/main/java/io/github/linwancen/diagrams/java/export/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-to-diagrams.git/src/main/java/io/github/linwancen/diagrams/java/export/xmind/AbsJavaParseImplXMind.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-to-diagrams.git/src/main/java/io/github/linwancen/diagrams/java/export/xmind/JavaParseImplXMindCall.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-to-diagrams.git/src/main/java/io/github/linwancen/diagrams/java/export/xmind/JavaParseImplXMindClassCall.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-to-diagrams.git/src/main/java/io/github/linwancen/diagrams/java/export/xmind/JavaParseImplXMindTree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-to-diagrams.git/src/main/java/io/github/linwancen/diagrams/java/parser/AccessEnumUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-to-diagrams.git/src/main/java/io/github/linwancen/diagrams/java/parser/InfoFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-to-diagrams.git/src/main/java/io/github/linwancen/diagrams/java/parser/InfoUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-to-diagrams.git/src/main/java/io/github/linwancen/diagrams/java/parser/JavadocUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-to-diagrams.git/src/main/java/io/github/linwancen/diagrams/java/parser/SolverUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-to-diagrams.git/src/main/java/io/github/linwancen/diagrams/java/parser/Step1Dirs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-to-diagrams.git/src/main/java/io/github/linwancen/diagrams/java/parser/Step2File.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-to-diagrams.git/src/main/java/io/github/linwancen/diagrams/java/parser/Step3Type.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-to-diagrams.git/src/main/java/io/github/linwancen/diagrams/java/parser/Step4Members.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-to-diagrams.git/src/main/java/io/github/linwancen/diagrams/java/parser/Step5MethodCall.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-to-diagrams.git/src/main/java/io/github/linwancen/diagrams/java/parser/Step6Over.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-to-diagrams.git/src/main/java/io/github/linwancen/diagrams/java/parser/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-to-diagrams.git/src/main/java/io/github/linwancen/util/excel/FreezeAndFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-to-diagrams.git/src/main/java/io/github/linwancen/util/graphviz/GraphvizUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-to-diagrams.git/src/main/java/io/github/linwancen/util/graphviz/Uml.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-to-diagrams.git/src/main/java/io/github/linwancen/util/graphviz/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-to-diagrams.git/src/main/java/io/github/linwancen/util/java/CommentUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-to-diagrams.git/src/main/java/io/github/linwancen/util/java/ConfUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-to-diagrams.git/src/main/java/io/github/linwancen/util/java/EnvUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-to-diagrams.git/src/main/java/io/github/linwancen/util/java/FileUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-to-diagrams.git/src/main/java/io/github/linwancen/util/java/FilterUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-to-diagrams.git/src/main/java/io/github/linwancen/util/java/JFileUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-to-diagrams.git/src/main/java/io/github/linwancen/util/java/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-to-diagrams.git/src/main/java/io/github/linwancen/util/maven/DepHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-to-diagrams.git/src/main/java/io/github/linwancen/util/maven/MavenUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-to-diagrams.git/src/main/java/io/github/linwancen/util/xmind/XMindUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-to-diagrams.git/src/main/resources/conf.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-to-diagrams.git/src/main/resources/log4j2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-to-diagrams.git/src/test/java/TestNoPackage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-to-diagrams.git/src/test/java/io/github/linwancen/diagrams/java/api/bean/ModifiersInfoTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-to-diagrams.git/src/test/java/io/github/linwancen/diagrams/java/parser/JavaParseMainTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-to-diagrams.git/src/test/java/io/github/linwancen/diagrams/java/parser/TestAnno.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-to-diagrams.git/src/test/java/io/github/linwancen/diagrams/java/parser/TestClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-to-diagrams.git/src/test/java/io/github/linwancen/util/graphviz/UmlTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-to-diagrams.git/src/test/java/io/github/linwancen/util/maven/MavenUtilsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-to-diagrams.git/src/test/java/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-to-diagrams.git/xmind-demo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaparser-gradle-sample/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/javaparser-gradle-sample/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaparser-gradle-sample/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/javaparser-gradle-sample/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/FirePowerCount$FirePowerLevel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/FirePowerCount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/META-INF/SomeDemo.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/SwardToOffer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/demo/designmodel/IUserDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/demo/designmodel/ProxyDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/demo/designmodel/ProxyFactory$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/demo/designmodel/ProxyFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/demo/designmodel/UserDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/demo/encrypt/XOR.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/demo/genericity/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/demo/genericity/B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/demo/genericity/FruitGenerator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/demo/genericity/GenericityClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/demo/genericity/GenericityInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/demo/genericity/ListDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/demo/genericity/VegetableGenerator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/demo/offer/Algorithm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/demo/offer/MyAtoi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/demo/offer/OfferDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/demo/sort/Sort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/demo/sort/SortDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/demo/sort/Util.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/demo/subclass/BaseClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/demo/subclass/ClassA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/demo/subclass/ClassAKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/demo/subclass/OperatorModeEnum$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/demo/subclass/OperatorModeEnum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/demo/synchronize/AAADemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/demo/synchronize/CountingFactorizer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/demo/synchronize/MyTest$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/demo/synchronize/MyTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/demo/synchronize/SynchronizerFactorizer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/demo/synchronize/ThreadUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/demo/synchronize/UnsafeCachingFactorizer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/demo/synchronize/UnsafeCountingFactorizer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/demo/synchronize/producerconsumer/Consumer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/demo/synchronize/producerconsumer/Counter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/demo/synchronize/producerconsumer/Icecream.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/demo/synchronize/producerconsumer/Producer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/demo/synchronize/producerconsumer/ProducerConsumerDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/walker/ArrayDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/walker/DateCalculate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/walker/DateTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/walker/FeedDateOpDemo$Data.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/walker/FeedDateOpDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/walker/FileRenameDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/walker/FindOmitName.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/walker/GenericityDemo$A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/walker/GenericityDemo$B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/walker/GenericityDemo$C.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/walker/GenericityDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/walker/JavaDate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/walker/MMapDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/walker/MaterialClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/walker/MyDateUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/walker/PoiInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/walker/Regular.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/walker/StringArrayDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/walker/SynchronizeTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/walker/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/walker/TestA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/walker/YamlDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/walker/bean/WinkPublishMediaRecord.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/walker/classloader/ClassLoaderTest$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/walker/classloader/ClassLoaderTest$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/walker/classloader/ClassLoaderTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/walker/classloader/DiskClassLoader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/walker/designmode/ClassA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/walker/designmode/Test$InnerClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/walker/designmode/Test$StaticInnerClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/walker/designmode/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/walker/designmode/builder/Product$Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/walker/designmode/builder/Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/walker/designmode/builder/Product2$Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/walker/designmode/builder/Product2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/walker/designmode/observer/Observer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/walker/designmode/observer/Observerable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/walker/designmode/observer/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/walker/designmode/observer/WechatServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/walker/designmode/singleton/InnerClassSingleton$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/walker/designmode/singleton/InnerClassSingleton$SingletonHolder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/walker/designmode/singleton/InnerClassSingleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/walker/designmode/singleton/LazySingleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/walker/designmode/singleton/Singleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/walker/huatai/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/walker/huawei/HH.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/walker/huawei/HJ01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/walker/huawei/HJ02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/walker/huawei/HJ04.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/walker/huawei/HJ05.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/walker/huawei/HJ06.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/walker/huawei/HJ07.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/walker/huawei/HJ08.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/walker/huawei/HJ09.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/walker/huawei/HJ10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/walker/huawei/HJ101.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/walker/huawei/HJ102.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/walker/huawei/HJ103.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/walker/huawei/HJ106.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/walker/huawei/HJ108.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/walker/huawei/HJ11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/walker/huawei/HJ12.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/walker/huawei/HJ13.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/walker/huawei/HJ14.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/walker/huawei/HJ15.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/walker/huawei/HJ17.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/walker/huawei/HJ20.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/walker/huawei/HJ21.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/walker/huawei/HJ22.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/walker/huawei/HJ23.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/walker/huawei/HJ24.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/walker/huawei/HJ26$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/walker/huawei/HJ26.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/walker/huawei/HJ27.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/walker/huawei/HJ29.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/walker/huawei/HJ31.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/walker/huawei/HJ32.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/walker/huawei/HJ33.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/walker/huawei/HJ34.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/walker/huawei/HJ35.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/walker/huawei/HJ36.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/walker/huawei/HJ37.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/walker/huawei/HJ38.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/walker/huawei/HJ40.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/walker/huawei/HJ41.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/walker/huawei/HJ45.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/walker/huawei/HJ46.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/walker/huawei/HJ51$ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/walker/huawei/HJ51.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/walker/huawei/HJ55.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/walker/huawei/HJ57.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/walker/huawei/HJ58.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/walker/huawei/HJ61.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/walker/huawei/HJ63.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/walker/huawei/HJ65.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/walker/huawei/HJ67.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/walker/huawei/HJ71.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/walker/huawei/HJ72.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/walker/huawei/HJ74.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/walker/huawei/HJ75.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/walker/huawei/HJ77.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/walker/huawei/HJ82.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/walker/huawei/HJ87.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/walker/huawei/HJ90.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/walker/huawei/HJ91.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/walker/huawei/HJ92.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/walker/huawei/HJ94.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/walker/huawei/HJ96.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/walker/huawei/HJ97.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/walker/huawei/HJ99.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/walker/huawei/HuaWei.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/walker/huawei/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/walker/leetcode/No100.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/walker/leetcode/No121.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/walker/reflect/Encoder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/walker/reflect/MyObject$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/walker/reflect/MyObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/walker/reflect/MyObjectEncoder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/walker/reflect/PackCreator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeDemo/com/walker/reflect/ReflectDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FirePowerCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_demo/src/main/java/FirePowerCount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SwardToOffer.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_demo/src/main/java/SwardToOffer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/demo/designmodel/IUserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_demo/src/main/java/com/demo/designmodel/IUserDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/demo/designmodel/ProxyDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_demo/src/main/java/com/demo/designmodel/ProxyDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/demo/designmodel/UserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_demo/src/main/java/com/demo/designmodel/UserDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/demo/encrypt/XOR.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_demo/src/main/java/com/demo/encrypt/XOR.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/demo/genericity/ListDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_demo/src/main/java/com/demo/genericity/ListDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/demo/json/JsonTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_demo/src/main/java/com/demo/json/JsonTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/demo/kotlin_study/P02_001.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Java_demo/src/main/java/com/demo/kotlin_study/P02_001.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/demo/offer/Algorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_demo/src/main/java/com/demo/offer/Algorithm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/demo/offer/MyAtoi.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_demo/src/main/java/com/demo/offer/MyAtoi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/demo/offer/OfferDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_demo/src/main/java/com/demo/offer/OfferDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/demo/sort/Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_demo/src/main/java/com/demo/sort/Sort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/demo/sort/SortDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_demo/src/main/java/com/demo/sort/SortDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/demo/sort/Util.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_demo/src/main/java/com/demo/sort/Util.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/demo/subclass/BaseClass.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Java_demo/src/main/java/com/demo/subclass/BaseClass.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/demo/subclass/ClassA.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Java_demo/src/main/java/com/demo/subclass/ClassA.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/demo/subclass/OperatorModeEnum.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Java_demo/src/main/java/com/demo/subclass/OperatorModeEnum.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/demo/synchronize/AAADemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_demo/src/main/java/com/demo/synchronize/AAADemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/demo/synchronize/CountingFactorizer.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_demo/src/main/java/com/demo/synchronize/CountingFactorizer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/demo/synchronize/MyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_demo/src/main/java/com/demo/synchronize/MyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/demo/synchronize/SynchronizerFactorizer.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_demo/src/main/java/com/demo/synchronize/SynchronizerFactorizer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/demo/synchronize/ThreadUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_demo/src/main/java/com/demo/synchronize/ThreadUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/demo/synchronize/UnsafeCachingFactorizer.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_demo/src/main/java/com/demo/synchronize/UnsafeCachingFactorizer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/demo/synchronize/UnsafeCountingFactorizer.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_demo/src/main/java/com/demo/synchronize/UnsafeCountingFactorizer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/demo/synchronize/producerconsumer/Consumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_demo/src/main/java/com/demo/synchronize/producerconsumer/Consumer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/demo/synchronize/producerconsumer/Counter.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_demo/src/main/java/com/demo/synchronize/producerconsumer/Counter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/demo/synchronize/producerconsumer/Icecream.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_demo/src/main/java/com/demo/synchronize/producerconsumer/Icecream.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/demo/synchronize/producerconsumer/Producer.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_demo/src/main/java/com/demo/synchronize/producerconsumer/Producer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/demo/synchronize/producerconsumer/ProducerConsumerDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_demo/src/main/java/com/demo/synchronize/producerconsumer/ProducerConsumerDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/walker/ArrayDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_demo/src/main/java/com/walker/ArrayDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/walker/DateCalculate.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_demo/src/main/java/com/walker/DateCalculate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/walker/DateTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_demo/src/main/java/com/walker/DateTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/walker/FeedDateOpDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_demo/src/main/java/com/walker/FeedDateOpDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/walker/FileRenameDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_demo/src/main/java/com/walker/FileRenameDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/walker/FindOmitName.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_demo/src/main/java/com/walker/FindOmitName.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/walker/GenericityDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_demo/src/main/java/com/walker/GenericityDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/walker/JavaDate.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_demo/src/main/java/com/walker/JavaDate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/walker/MMapDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_demo/src/main/java/com/walker/MMapDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/walker/MaterialClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_demo/src/main/java/com/walker/MaterialClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/walker/MyDateUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_demo/src/main/java/com/walker/MyDateUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/walker/PoiInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_demo/src/main/java/com/walker/PoiInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/walker/Regular.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_demo/src/main/java/com/walker/Regular.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/walker/StringArrayDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_demo/src/main/java/com/walker/StringArrayDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/walker/SynchronizeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_demo/src/main/java/com/walker/SynchronizeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/walker/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_demo/src/main/java/com/walker/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/walker/TestA.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_demo/src/main/java/com/walker/TestA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/walker/YamlDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_demo/src/main/java/com/walker/YamlDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/walker/bean/WinkPublishMediaRecord.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_demo/src/main/java/com/walker/bean/WinkPublishMediaRecord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/walker/classloader/ClassLoaderTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_demo/src/main/java/com/walker/classloader/ClassLoaderTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/walker/classloader/DiskClassLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_demo/src/main/java/com/walker/classloader/DiskClassLoader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/walker/designmode/ClassA.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_demo/src/main/java/com/walker/designmode/ClassA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/walker/designmode/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_demo/src/main/java/com/walker/designmode/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/walker/designmode/builder/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_demo/src/main/java/com/walker/designmode/builder/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/walker/designmode/builder/Product2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_demo/src/main/java/com/walker/designmode/builder/Product2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/walker/designmode/observer/Observer.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_demo/src/main/java/com/walker/designmode/observer/Observer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/walker/designmode/observer/Observerable.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_demo/src/main/java/com/walker/designmode/observer/Observerable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/walker/designmode/observer/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_demo/src/main/java/com/walker/designmode/observer/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/walker/designmode/observer/WechatServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_demo/src/main/java/com/walker/designmode/observer/WechatServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/walker/designmode/singleton/InnerClassSingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_demo/src/main/java/com/walker/designmode/singleton/InnerClassSingleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/walker/designmode/singleton/LazySingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_demo/src/main/java/com/walker/designmode/singleton/LazySingleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/walker/designmode/singleton/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_demo/src/main/java/com/walker/designmode/singleton/Singleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/walker/huatai/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_demo/src/main/java/com/walker/huatai/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/walker/huawei/HH.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_demo/src/main/java/com/walker/huawei/HH.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/walker/huawei/HJ01.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_demo/src/main/java/com/walker/huawei/HJ01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/walker/huawei/HJ02.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_demo/src/main/java/com/walker/huawei/HJ02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/walker/huawei/HJ04.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_demo/src/main/java/com/walker/huawei/HJ04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/walker/huawei/HJ05.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_demo/src/main/java/com/walker/huawei/HJ05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/walker/huawei/HJ06.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_demo/src/main/java/com/walker/huawei/HJ06.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/walker/huawei/HJ07.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_demo/src/main/java/com/walker/huawei/HJ07.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/walker/huawei/HJ08.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_demo/src/main/java/com/walker/huawei/HJ08.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/walker/huawei/HJ09.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_demo/src/main/java/com/walker/huawei/HJ09.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/walker/huawei/HJ10.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_demo/src/main/java/com/walker/huawei/HJ10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/walker/huawei/HJ101.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_demo/src/main/java/com/walker/huawei/HJ101.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/walker/huawei/HJ102.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_demo/src/main/java/com/walker/huawei/HJ102.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/walker/huawei/HJ103.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_demo/src/main/java/com/walker/huawei/HJ103.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/walker/huawei/HJ106.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_demo/src/main/java/com/walker/huawei/HJ106.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/walker/huawei/HJ108.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_demo/src/main/java/com/walker/huawei/HJ108.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/walker/huawei/HJ11.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_demo/src/main/java/com/walker/huawei/HJ11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/walker/huawei/HJ12.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_demo/src/main/java/com/walker/huawei/HJ12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/walker/huawei/HJ13.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_demo/src/main/java/com/walker/huawei/HJ13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/walker/huawei/HJ14.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_demo/src/main/java/com/walker/huawei/HJ14.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/walker/huawei/HJ15.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_demo/src/main/java/com/walker/huawei/HJ15.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/walker/huawei/HJ17.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_demo/src/main/java/com/walker/huawei/HJ17.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/walker/huawei/HJ20.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_demo/src/main/java/com/walker/huawei/HJ20.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/walker/huawei/HJ21.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_demo/src/main/java/com/walker/huawei/HJ21.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/walker/huawei/HJ22.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_demo/src/main/java/com/walker/huawei/HJ22.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/walker/huawei/HJ23.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_demo/src/main/java/com/walker/huawei/HJ23.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/walker/huawei/HJ24.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_demo/src/main/java/com/walker/huawei/HJ24.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/walker/huawei/HJ26.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_demo/src/main/java/com/walker/huawei/HJ26.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/walker/huawei/HJ27.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_demo/src/main/java/com/walker/huawei/HJ27.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/walker/huawei/HJ29.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_demo/src/main/java/com/walker/huawei/HJ29.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/walker/huawei/HJ31.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_demo/src/main/java/com/walker/huawei/HJ31.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/walker/huawei/HJ32.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_demo/src/main/java/com/walker/huawei/HJ32.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/walker/huawei/HJ33.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_demo/src/main/java/com/walker/huawei/HJ33.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/walker/huawei/HJ34.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_demo/src/main/java/com/walker/huawei/HJ34.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/walker/huawei/HJ35.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_demo/src/main/java/com/walker/huawei/HJ35.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/walker/huawei/HJ36.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_demo/src/main/java/com/walker/huawei/HJ36.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/walker/huawei/HJ37.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_demo/src/main/java/com/walker/huawei/HJ37.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/walker/huawei/HJ38.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_demo/src/main/java/com/walker/huawei/HJ38.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/walker/huawei/HJ40.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_demo/src/main/java/com/walker/huawei/HJ40.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/walker/huawei/HJ41.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_demo/src/main/java/com/walker/huawei/HJ41.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/walker/huawei/HJ45.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_demo/src/main/java/com/walker/huawei/HJ45.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/walker/huawei/HJ46.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_demo/src/main/java/com/walker/huawei/HJ46.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/walker/huawei/HJ51.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_demo/src/main/java/com/walker/huawei/HJ51.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/walker/huawei/HJ55.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_demo/src/main/java/com/walker/huawei/HJ55.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/walker/huawei/HJ57.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_demo/src/main/java/com/walker/huawei/HJ57.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/walker/huawei/HJ58.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_demo/src/main/java/com/walker/huawei/HJ58.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/walker/huawei/HJ61.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_demo/src/main/java/com/walker/huawei/HJ61.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/walker/huawei/HJ63.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_demo/src/main/java/com/walker/huawei/HJ63.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/walker/huawei/HJ65.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_demo/src/main/java/com/walker/huawei/HJ65.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/walker/huawei/HJ67.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_demo/src/main/java/com/walker/huawei/HJ67.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/walker/huawei/HJ71.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_demo/src/main/java/com/walker/huawei/HJ71.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/walker/huawei/HJ72.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_demo/src/main/java/com/walker/huawei/HJ72.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/walker/huawei/HJ74.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_demo/src/main/java/com/walker/huawei/HJ74.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/walker/huawei/HJ75.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_demo/src/main/java/com/walker/huawei/HJ75.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/walker/huawei/HJ77.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_demo/src/main/java/com/walker/huawei/HJ77.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/walker/huawei/HJ82.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_demo/src/main/java/com/walker/huawei/HJ82.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/walker/huawei/HJ87.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_demo/src/main/java/com/walker/huawei/HJ87.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/walker/huawei/HJ90.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_demo/src/main/java/com/walker/huawei/HJ90.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/walker/huawei/HJ91.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_demo/src/main/java/com/walker/huawei/HJ91.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/walker/huawei/HJ92.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_demo/src/main/java/com/walker/huawei/HJ92.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/walker/huawei/HJ94.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_demo/src/main/java/com/walker/huawei/HJ94.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/walker/huawei/HJ96.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_demo/src/main/java/com/walker/huawei/HJ96.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/walker/huawei/HJ97.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_demo/src/main/java/com/walker/huawei/HJ97.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/walker/huawei/HJ99.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_demo/src/main/java/com/walker/huawei/HJ99.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/walker/huawei/HuaWei.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_demo/src/main/java/com/walker/huawei/HuaWei.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/walker/huawei/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_demo/src/main/java/com/walker/huawei/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/walker/leetcode/No100.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_demo/src/main/java/com/walker/leetcode/No100.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/walker/leetcode/No121.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_demo/src/main/java/com/walker/leetcode/No121.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/walker/reflect/Encoder.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_demo/src/main/java/com/walker/reflect/Encoder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/walker/reflect/MyObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_demo/src/main/java/com/walker/reflect/MyObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/walker/reflect/MyObjectEncoder.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_demo/src/main/java/com/walker/reflect/MyObjectEncoder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/walker/reflect/PackCreator.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_demo/src/main/java/com/walker/reflect/PackCreator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/walker/reflect/ReflectDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_demo/src/main/java/com/walker/reflect/ReflectDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +464,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/Java_demo">
+      <ProjectState />
+    </projectState>
     <projectState path="$PROJECT_DIR$/Kotlin_demo">
       <ProjectState />
     </projectState>
@@ -75,26 +513,38 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "jdk.selected.JAVA_MODULE": "1.8",
-    "last_opened_file_path": "D:/walker/java_demo/SomeDemo/Kotlin_demo/settings.gradle.kts",
+    "last_opened_file_path": "D:/walker/java_demo/SomeDemo/Java_demo",
     "project.structure.last.edited": "SDKs",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "project.propVCSSupport.CommitDialog"
+    "settings.editor.selected.configurable": "File.Encoding"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\walker\java_demo\SomeDemo\Java_demo" />
+      <recent name="D:\walker\java_demo\SomeDemo\java-to-diagrams\src\main" />
+      <recent name="D:\walker\java_demo\SomeDemo\java-to-diagrams.git" />
       <recent name="D:\walker\java_demo\SomeDemo" />
-      <recent name="$PROJECT_DIR$/doc" />
+      <recent name="D:\walker\java_demo\SomeDemo\javaparser-gradle-sample" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.ClassAKt">
-    <configuration name="ArrayDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="walker.ArrayDemo" />
-      <module name="SomeDemo" />
+  <component name="RunManager" selected="Application.LogicPositivizer">
+    <configuration name="FirePowerCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FirePowerCount" />
+      <module name="Java_demo.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JavaParserMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="io.github.linwancen.diagrams.JavaParserMain" />
+      <module name="java_demo.SomeDemo.java-to-diagrams.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="walker.*" />
+          <option name="PATTERN" value="io.github.linwancen.diagrams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +552,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyAtoi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.demo.offer.MyAtoi" />
-      <module name="SomeDemo" />
+    <configuration name="LogicPositivizer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yourorganization.maven_sample.LogicPositivizer" />
+      <module name="SomeDemo.javaparser-gradle-sample.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.demo.offer.*" />
+          <option name="PATTERN" value="com.yourorganization.maven_sample.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,12 +565,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OfferDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.demo.offer.OfferDemo" />
-      <module name="SomeDemo" />
+    <configuration name="MMapDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.walker.MMapDemo" />
+      <module name="Java_demo.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.demo.offer.*" />
+          <option name="PATTERN" value="com.walker.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,33 +578,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.walker.designmode.Test" />
-      <module name="SomeDemo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.walker.designmode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="TestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kotlinprimer.TestKt" />
+      <module name="Kotlin_demo.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ClassAKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.demo.subclass.ClassAKt" />
-      <module name="SomeDemo" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+    <list>
+      <item itemvalue="Application.FirePowerCount" />
+      <item itemvalue="Application.JavaParserMain" />
+      <item itemvalue="Application.LogicPositivizer" />
+      <item itemvalue="Application.MMapDemo" />
+      <item itemvalue="Kotlin.TestKt" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.ClassAKt" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.ArrayDemo" />
-        <item itemvalue="Application.MyAtoi" />
-        <item itemvalue="Application.OfferDemo" />
+        <item itemvalue="Kotlin.TestKt" />
+        <item itemvalue="Application.FirePowerCount" />
+        <item itemvalue="Application.JavaParserMain" />
+        <item itemvalue="Application.LogicPositivizer" />
+        <item itemvalue="Application.MMapDemo" />
       </list>
     </recent_temporary>
   </component>
